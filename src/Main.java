@@ -8,7 +8,7 @@ public class Main {
         int operand1 = scanner.nextInt();
         while (2>1) {
             char operation = scanner.next().charAt(0);
-                if (operation == 's') {
+                if (operation == 'r') {
                     break;
                 } else if (operation == 'c') {
                     result = 0;
